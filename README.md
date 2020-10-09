@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Simon Chen!
+
+<!-- card from https://github.com/anuraghazra/github-readme-stats -->
+
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Simon-Chenzw&include_all_commits=true&count_private=true&hide=prs,issues&show_icons=true&theme=graywhite&hide_border=true" />
+</a>
+
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Simon-Chenzw&layout=compact&theme=graywhite&hide_border=true" />
+</a>
 
 <!--
 **Simon-Chenzw/Simon-Chenzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
