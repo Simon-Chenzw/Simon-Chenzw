@@ -7,7 +7,7 @@
 </a>
 
 <a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Simon-Chenzw&layout=compact&theme=graywhite&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Simon-Chenzw&layout=compact&theme=graywhite&hide_border=true&hide=Jupyter%20Notebook,MATLAB" />
 </a>
 
 <!--
